@@ -51,7 +51,7 @@ nav a {
 }
 .header {
   background-color: #fff8f3;
-  background-image: url("../styles/image/header_bg.png");
+  background-image: url("../image/header_bg.png");
   background-repeat: no-repeat;
   background-position: bottom right;
 }
@@ -68,7 +68,7 @@ nav a {
 .banner-description {
 }
 .profile-pic {
-  width: 500px;
+  width: 613px;
 }
 ..banner-greeting {
   font-size: 45px;
